@@ -1,13 +1,13 @@
 ---
 title: Etkinlik 1
 subtitle: etkinlik etkinlik
-image: assets/img/portfolio/etkinlik1.png
+image: assets/img/etkinlik1.png
 alt: etkinlikten foto
 
 caption:
   title: Etkinlik 1
   subtitle: Etkinlik etkinlik
-  thumbnail: assets/img/portfolio/etkinlik1.png
+  thumbnail: assets/img/etkinlik1.png
 ---
 Etkinliği anlatan bir metin...
 
