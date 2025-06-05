@@ -54,10 +54,10 @@ en: &DEFAULT_EN
     end: "Hikayemizin bir <br> parçası olun!"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "Hakkımızda"
+    text: "Hikayemiz..."
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    section: hakkımızda
 
   clients:
     section: clients
