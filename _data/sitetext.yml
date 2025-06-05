@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Tarih Kulübü'ne
     text: Hoş Geldiniz
     button: Daha Fazlasını Görmek İstiyorum
-    buttonlink: "#services"
+    buttonlink: "#etkinliklerimiz"
 
   services:
     title: "Etkinliklerimiz"
@@ -37,6 +37,12 @@ en: &DEFAULT_EN
     section: yaptıklarımız
     closebutton: "Close Project"
 
+  about:
+    title: "Hakkımızda"
+    text: "Hikayemiz..."
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: hakkımızda
+
   timeline:
     title: "Hikayemiz"
     text: "Lorem ipsum timeline"
@@ -52,12 +58,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         # align: right
     end: "Hikayemizin bir <br> parçası olun!"
-
-  about:
-    title: "Hakkımızda"
-    text: "Hikayemiz..."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: hakkımızda
 
   clients:
     section: clients
