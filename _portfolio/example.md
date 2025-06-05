@@ -1,13 +1,13 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Etkinlik 1
+subtitle: etkinlik etkinlik
+image: assets/img/portfolio/etkinlik1.png
+alt: etkinlikten foto
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Etkinlik 1
+  subtitle: Etkinlik etkinlik
+  thumbnail: assets/img/portfolio/etkinlik1.png
 ---
 Etkinliği anlatan bir metin...
 
