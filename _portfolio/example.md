@@ -13,5 +13,5 @@ Etkinliği anlatan bir metin...
 
 {:.list-inline}
 - Tarih: Tarih
-- Etkinlik: Sahnede Biri Var
+- Etkinlik: Yeniden Tarih
 
